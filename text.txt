@@ -1,0 +1,16 @@
+1. i don't repeat code -: how and where 
+2. i work long trum for responsive ness and easy to understand , and i have time i doing with love 
+
+start creating  
+[i] -: i create first navigations and create responsive and js 
+after and before and i understand and work for learning [and hover like same as can]
+
+three compments -: egs, glass, apple -: first create without bg class add / fonts and complete / after that i create responsive this 
+
+review -: just one box and rublicate that box // first i try img / bg responsive
+
+after that -: the img -: for box -: and bg -: after responsive
+and footer -: one box -: three div and flex /
+
+use utility class
+
